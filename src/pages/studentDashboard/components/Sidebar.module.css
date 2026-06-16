@@ -1,0 +1,12 @@
+
+.sidebar {
+    background-color: blue;
+    height: 80vh;
+    width: 20vw;
+    transition: width 0.3 ease-in-out;
+}
+
+.isActive {
+    width: 10vw;
+    transition: width 0.3 ease-in-out;
+}
